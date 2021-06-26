@@ -1,4 +1,4 @@
-# ZenyToken
+# ZenyToken Development
 
 ## Github in 5 minutes
 หลังจากสร้าง Account บน github.com สามารถอัพโหลดข้อมูลในโฟลเดอร์ที่ต้องการโดยใช้คำสั่งต่อไปนี้
